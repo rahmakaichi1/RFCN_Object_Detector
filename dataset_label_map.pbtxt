@@ -1,0 +1,12 @@
+item {
+  name: "logo"
+  id: 1
+}
+item {
+  name: "text"
+  id: 2
+}
+item {
+  name: "table"
+  id: 3
+}
